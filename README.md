@@ -16,7 +16,15 @@
   </a>
 </p>
 
---
+---
 ### 🚀 About Me
 
 I'm passionate about crafting **end-to-end solutions** that solve real-world problems with clean, efficient, and modern code. Currently focusing on full-stack web and mobile development while continuously sharpening my problem-solving skills through competitive programming.
+
+- 🔭 Currently building: Real-time apps, AI-integrated platforms, and scalable systems  
+- 🌱 Learning & Improving: Next.js 14+, Prisma, TypeScript, advanced DSA patterns  
+- 👨‍💻 Solved **700+ algorithmic challenges** on LeetCode, CodeChef (2-Star Rank), Codeforces  
+- 💼 Hands-on experience with production-level projects  
+- 📫 Let's collaborate: Open to remote opportunities, internships, and meaningful projects  
+
+"Driven by curiosity, fueled by code, and always ready to learn something new."
