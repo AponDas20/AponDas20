@@ -15,3 +15,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
+--
+### 🚀 About Me
+
+I'm passionate about crafting **end-to-end solutions** that solve real-world problems with clean, efficient, and modern code. Currently focusing on full-stack web and mobile development while continuously sharpening my problem-solving skills through competitive programming.
